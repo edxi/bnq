@@ -1,0 +1,19 @@
+mkdir -p kube-proxy/v1.18.3
+mkdir -p kube-scheduler/v1.18.3
+mkdir -p kube-controller-manager/v1.18.3
+mkdir -p kube-apiserver/v1.18.3
+mkdir -p pause/3.2
+mkdir -p coredns/1.6.7
+mkdir -p kube-proxy/v1.17.2
+mkdir -p kube-apiserver/v1.17.2
+mkdir -p kube-controller-manager/v1.17.2
+mkdir -p kube-scheduler/v1.17.2
+mkdir -p etcd/3.4.3-0
+mkdir -p kube-apiserver/v1.18.5
+mkdir -p kube-controller-manager/v1.18.5
+mkdir -p kube-scheduler/v1.18.5
+mkdir -p kube-proxy/v1.18.5
+mkdir -p pause/3.2
+mkdir -p etcd/3.4.3-0
+mkdir -p coredns/1.6.7
+
